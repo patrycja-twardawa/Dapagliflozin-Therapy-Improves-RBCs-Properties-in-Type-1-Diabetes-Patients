@@ -8,11 +8,11 @@ This work was supported by the Polish National Center for Research and Developme
 
 Contact information:
 
-(1) Patrycja Twardawa 
-E-mail: patrycja.twardawa@doctoral.uj.edu.pl
+(1) Patrycja Twardawa |
+E-mail: patrycja.twardawa@doctoral.uj.edu.pl |
 Affiliations: Jagiellonian University, Faculty of Physics, Astronomy and Applied Computer Science, M. Smoluchowski Institute of Physics, Kraków, Poland; 
 Jagiellonian University, Doctoral School of Exact and Natural Sciences, Kraków, Poland
 
-(2) Marta Targosz-Korecka
-E-mail: marta.targosz-korecka@uj.edu.pl 
+(2) Marta Targosz-Korecka |
+E-mail: marta.targosz-korecka@uj.edu.pl |
 Affiliations: Jagiellonian University, Faculty of Physics, Astronomy and Applied Computer Science, M. Smoluchowski Institute of Physics, Kraków, Poland
